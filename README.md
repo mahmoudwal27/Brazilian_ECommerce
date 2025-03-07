@@ -26,7 +26,7 @@ This project explores and cleans the **Olist Brazilian E-Commerce dataset** usin
 ## 🛠 Tools & Technologies Used  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Google Colab**
-- **Excel & Power Pivot**
+- **Power BI & DAX**
 
 ## 📊 Key Insights  
 

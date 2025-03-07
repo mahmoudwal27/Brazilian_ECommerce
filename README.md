@@ -29,9 +29,10 @@ This project explores and cleans the **Olist Brazilian E-Commerce dataset** usin
 - **Excel & Power Pivot**
 
 ## 📊 Key Insights  
-✅ How do customer orders vary across locations and product categories?  
-✅ What are the trends in customer payments and order reviews?  
-✅ How can delivery times and order fulfillment be optimized?  
+📈 Revenue Trends: Sales peaked in mid-2017 & early 2018, highlighting seasonal demand patterns.
+💳 Payment Discrepancies: Differences between recorded revenue and collected payments indicate potential financial leakage.
+⏳ Delivery Delays: Certain regions faced longer shipping times, impacting customer satisfaction and repeat purchases.
+💰 Profitability Optimization: Some product categories had high freight costs, reducing margins despite strong sales.
 
 This project provides a streamlined approach to uncovering insights from **Brazil’s e-commerce market**! 🚀  
 
